@@ -7,3 +7,5 @@ Le nom GitHub est composé du mot « git » faisant référence à un système d
 
 Octocat.
 Octocat est la mascotte de la marque. Dessiné dans un style épuré inspiré par les arts populaires japonais (manga), et dessiné par Simon Oxley1, également créateur du logo de Twitter. On voit une partie de son visage dans un déguisement lui donnant des oreilles de chat et des tentacules de céphalopode2.
+
+Je rajoute un petit peu de texte pour modifier le fichier !
